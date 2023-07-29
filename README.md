@@ -6,4 +6,4 @@ This repo contains the source code for a React Native App built with Expo. This 
 3. Use `npm run ios` or `yarn ios` to run it on IOS device/emulator.
 
 
-![Demo](screenshot.gif)
+![Demo](Demo.gif)
